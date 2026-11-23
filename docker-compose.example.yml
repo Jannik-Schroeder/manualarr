@@ -1,7 +1,7 @@
 services:
   manualarr:
     # Use the published image…
-    image: ghcr.io/phanes-io/manualarr:latest
+    image: ghcr.io/jannik-schroeder/manualarr:latest
     # …or build locally:
     # build: .
     container_name: manualarr

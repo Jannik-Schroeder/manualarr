@@ -10,7 +10,7 @@ so the album shows as owned, and Navidrome rescanned so it's instantly playable.
 
 > One page. No login. No landing page. Just the tool.
 
-![status](https://github.com/phanes-io/manualarr/actions/workflows/docker-build.yml/badge.svg)
+![status](https://github.com/Jannik-Schroeder/manualarr/actions/workflows/docker-build.yml/badge.svg)
 
 ## What it does
 
